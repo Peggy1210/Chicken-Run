@@ -19,13 +19,13 @@ Rabbit and Chicken are the best friends. One day, Rabbit got a bad score in a te
 
 * Game Settings
 
-&ensp;&ensp;&ensp;&ensp;<img src="https://hackmd.io/_uploads/HJH_8e39a.png" alt="image" width="30%" height="auto">&ensp;<img src="https://hackmd.io/_uploads/HySOUl35p.jpg" alt="image" width="30%" height="auto">&ensp;<img src="https://hackmd.io/_uploads/r1lH_8x3ca.png" alt="image" width="30%" height="auto"> &ensp;
+&ensp;&ensp;&ensp;&ensp;<img src="https://github.com/Peggy1210/introduction-to-programming-I-final-project/blob/main/screenshots/screenshot1.png" alt="image" width="30%" height="auto">&ensp;<img src="https://github.com/Peggy1210/introduction-to-programming-I-final-project/blob/main/screenshots/screenshot2.jpg" alt="image" width="30%" height="auto">&ensp;<img src="https://github.com/Peggy1210/introduction-to-programming-I-final-project/blob/main/screenshots/screenshot3.jpg)" alt="image" width="30%" height="auto"> &ensp;
 
 * Game Scene
 
-&ensp;&ensp;&ensp;&ensp;<img src="https://hackmd.io/_uploads/ryHO8enqT.jpg" alt="image" width="30%" height="auto">&ensp;<img src="https://hackmd.io/_uploads/S1SuLenc6.jpg" alt="image" width="30%" height="auto">&ensp;<img src="https://hackmd.io/_uploads/ByS_Uxh56.png" alt="image" width="30%" height="auto">
+&ensp;&ensp;&ensp;&ensp;<img src="https://github.com/Peggy1210/introduction-to-programming-I-final-project/blob/main/screenshots/screenshot4.jpg" alt="image" width="30%" height="auto">&ensp;<img src="https://github.com/Peggy1210/introduction-to-programming-I-final-project/blob/main/screenshots/screenshot5.jpg" alt="image" width="30%" height="auto">&ensp;<img src="https://github.com/Peggy1210/introduction-to-programming-I-final-project/blob/main/screenshots/screenshot6.png" alt="image" width="30%" height="auto">
 
 * Background Story
 
-&ensp;&ensp;&ensp;&ensp;<img src="https://hackmd.io/_uploads/HyBdIeh5p.png" alt="image" width="30%" height="auto">&ensp;<img src="https://hackmd.io/_uploads/B1eHOlh5p.png" alt="image" width="30%" height="auto">&ensp;<img src="https://hackmd.io/_uploads/B1SuIl2qp.jpg" alt="image" width="30%" height="auto">
+&ensp;&ensp;&ensp;&ensp;<img src="https://github.com/Peggy1210/introduction-to-programming-I-final-project/blob/main/screenshots/screenshot7.jpg" alt="image" width="30%" height="auto">&ensp;<img src="https://github.com/Peggy1210/introduction-to-programming-I-final-project/blob/main/screenshots/screenshot8.png" alt="image" width="30%" height="auto">&ensp;<img src="https://github.com/Peggy1210/introduction-to-programming-I-final-project/blob/main/screenshots/screenshot9.png" alt="image" width="30%" height="auto">
 
