@@ -19,7 +19,7 @@ Rabbit and Chicken are the best friends. One day, Rabbit got a bad score in a te
 
 * Game Settings
 
-&ensp;&ensp;&ensp;&ensp;<img src="https://github.com/Peggy1210/introduction-to-programming-I-final-project/blob/main/screenshots/screenshot1.png" alt="image" width="30%" height="auto">&ensp;<img src="https://github.com/Peggy1210/introduction-to-programming-I-final-project/blob/main/screenshots/screenshot2.jpg" alt="image" width="30%" height="auto">&ensp;<img src="https://github.com/Peggy1210/introduction-to-programming-I-final-project/blob/main/screenshots/screenshot3.png)" alt="image" width="30%" height="auto"> &ensp;
+&ensp;&ensp;&ensp;&ensp;<img src="https://github.com/Peggy1210/introduction-to-programming-I-final-project/blob/main/screenshots/screenshot1.png" alt="image" width="30%" height="auto">&ensp;<img src="https://github.com/Peggy1210/introduction-to-programming-I-final-project/blob/main/screenshots/screenshot2.jpg" alt="image" width="30%" height="auto">&ensp;<img src="https://github.com/Peggy1210/introduction-to-programming-I-final-project/blob/main/screenshots/screenshot3.png" alt="image" width="30%" height="auto"> &ensp;
 
 * Game Scene
 
